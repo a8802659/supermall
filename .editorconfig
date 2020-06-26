@@ -1,0 +1,10 @@
+root = true    #根据root去查找
+
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
+end_of_line = lf        #末尾空白行
+insert_final_newline = true     
+trim_trailing_whitespace = true   #限制多余空格
+#此文件作用： 对代码进行统一
